@@ -6,11 +6,11 @@ class Student < User
  end
 
   def learn
-  @knowledge < knowledge
-  end 
+   @knowledge < knowledge
+  end
 
-  def knowledge 
+  def knowledge
     @knowledge
-  end 
-  
+  end
+
 end
